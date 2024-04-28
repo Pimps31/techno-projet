@@ -75,7 +75,7 @@ a {
     color: #fff;
 }
 
-.voiture:hover {
+.jobs:hover {
     background-color: white;
     
 }
@@ -138,7 +138,7 @@ img {
     
 }
 
-.voiture {
+.jobs {
     width: 22rem;
     height: 13rem;
     border-radius: 20px;
