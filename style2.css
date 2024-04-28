@@ -162,15 +162,7 @@ opacity: 0;
     opacity: 0.7;
     
 }
-ul{
-    list-style: none;
-    top: 5rem;
-    position: relative;
-}
-.titre{
-    margin-bottom: 1rem;
 
-}
 
 .tappe{
     /* background-color: black; */
@@ -183,4 +175,11 @@ ul{
     animation: myAnim 3s ease 0s 1000000 normal forwards;
    
      
+}
+
+.linkjob{
+    color: black;
+    text-decoration: none;
+    top: 5rem;
+    position: relative;
 }
